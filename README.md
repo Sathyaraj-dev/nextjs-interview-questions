@@ -17,3 +17,7 @@ Next.js offers several advantages over React, including server-side rendering, a
 **What do you mean by SSR?**
 
 This is server-side rendering. This enables rendering on the server a client-side page app, and then we can send that rendered page to that client. These pages get loaded faster as the browser gets access to them sooner.
+
+**What is client-side rendering?**
+
+Client-side rendering (CSR) is a rendering technique where the web page’s content is generated and displayed on the client-side (i.e., the browser) using JavaScript.
