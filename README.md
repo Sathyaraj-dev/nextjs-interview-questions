@@ -21,3 +21,7 @@ This is server-side rendering. This enables rendering on the server a client-sid
 **What is client-side rendering?**
 
 Client-side rendering (CSR) is a rendering technique where the web page’s content is generated and displayed on the client-side (i.e., the browser) using JavaScript.
+
+**Difference between getServerSideProps and getStaticProps functions in Next.js?**
+
+The getServerSideProps function is used to fetch data on the server at runtime for server-side rendering, while the getStaticProps function is used to fetch data at build time for static site generation.
