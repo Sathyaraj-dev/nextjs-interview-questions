@@ -29,3 +29,9 @@ Next.js provides several ways to pass data between pages in a Next.js applicatio
 **Difference between getServerSideProps and getStaticProps functions in Next.js?**
 
 The getServerSideProps function is used to fetch data on the server at runtime for server-side rendering, while the getStaticProps function is used to fetch data at build time for static site generation.
+
+**Server Component VS Client Component**
+
+![Nextjs](https://github.com/Sathyaraj-dev/nextjs-interview-questions/assets/57762726/09e28241-1e93-4149-b1eb-1d503b543206)
+
+
