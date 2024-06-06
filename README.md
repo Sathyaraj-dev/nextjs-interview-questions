@@ -34,4 +34,5 @@ The getServerSideProps function is used to fetch data on the server at runtime f
 
 ![Nextjs](https://github.com/Sathyaraj-dev/nextjs-interview-questions/assets/57762726/09e28241-1e93-4149-b1eb-1d503b543206)
 
-
+**Route Handlers:** 
+Use Route Handlers to access your backend resources from Client Components. But do not call Route Handlers from Server Components to avoid an additional server request.
