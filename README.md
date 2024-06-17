@@ -36,3 +36,7 @@ The getServerSideProps function is used to fetch data on the server at runtime f
 
 **Route Handlers:** 
 Use Route Handlers to access your backend resources from Client Components. But do not call Route Handlers from Server Components to avoid an additional server request.
+
+**Next JS client-side navigation**
+It supports both traditional anchor (<a>) tags and programmatically navigating through the next/router module.
+
