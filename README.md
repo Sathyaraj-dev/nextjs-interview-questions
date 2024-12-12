@@ -61,3 +61,5 @@ Use Route Handlers to access your backend resources from Client Components. But 
 **Next JS client-side navigation**
 It supports both traditional anchor (<a>) tags and programmatically navigating through the next/router module.
 
+**What is the role of middleware in Next.js, and how can it be utilized?**
+Middleware in Next.js allows you to run code before a request is completed, enabling functionalities like authentication, logging, or redirects. It runs on the edge, making it useful for handling tasks that need to be executed quickly and close to the user.
