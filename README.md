@@ -39,7 +39,7 @@ Next.js offers several advantages over React, including server-side rendering, a
 ✅ CSR (Client-Side Rendering): Entire page built in the browser. Lightweight but slower first paint.\
 ✅ SSR (Server-Side Rendering): Server builds the page on each request → SEO-friendly & faster initial load.\
 ✅ SSG (Static Site Generation): Pages are pre-rendered at build time → blazing fast, ideal for blogs/docs.\
-✅ ISR (Incremental Static Regeneration): Best of both worlds → static pages that can update on-demand without full rebuilds.\
+✅ ISR (Incremental Static Regeneration): Best of both worlds → static pages that can update on-demand without full rebuilds.
 
 
 **What do you mean by SSR?**
