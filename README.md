@@ -72,7 +72,7 @@ It supports both traditional anchor (<a>) tags and programmatically navigating t
 Middleware in Next.js allows you to run code before a request is completed, enabling functionalities like authentication, logging, or redirects. It runs on the edge, making it useful for handling tasks that need to be executed quickly and close to the user.
 
 **How do you perform client-side data fetching in Next.js?**
-
+```
 import { useState, useEffect } from "react";
 
 function Profile() {
@@ -98,3 +98,4 @@ function Profile() {
     </div>
   );
 }
+```
